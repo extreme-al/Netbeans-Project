@@ -1,0 +1,10 @@
+35
+41
+43
+44
+id = \r\n                            44
+sql = DELETE FROM joke WHERE ID = \r\n                            44
+id = 35
+sql = DELETE FROM joke WHERE ID = 35
+id = 41
+sql = DELETE FROM joke WHERE ID = 41
